@@ -1,0 +1,2 @@
+# PlaywrightTest
+Playwright practice repository
